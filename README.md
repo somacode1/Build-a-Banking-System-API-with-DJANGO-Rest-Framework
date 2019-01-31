@@ -57,6 +57,35 @@ Now lets create an application called `api` inside our project `banksystem`. [To
 
 [2 - Create api app](../../tree/add_commit_here/)
 
+Run the following command in your root folder where `manage.py` lives.
+
+`./manage.py startapp api`
+
+The app `api` will be created and your whole project folder structure should look like this.
+
+```markdown 
+
+[banksystem_project]/
+├── [banksystem]/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+|____[api]/
+|    |__ __init__.py
+|    |__ models.py
+|    |__ views.py
+|    |__[migrations]/
+|    |  |___ __init__.py
+|    |
+|    |__admin.py
+|    |__tests.py
+|
+└── manage.py
+```
+
+[Learn about django project structure.](https://django-project-skeleton.readthedocs.io/en/latest/structure.html)
+
 ### Section 2| Django Rest Framework
 
 *1 - Introduction: no code*
