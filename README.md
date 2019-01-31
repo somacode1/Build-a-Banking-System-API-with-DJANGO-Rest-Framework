@@ -86,18 +86,18 @@ The app `api` will be created and your whole project folder structure should loo
 
 Include `api` application in django `settings.py`
 
-                      ```python
-                        INSTALLED_APPS = [
-                        'django.contrib.admin',
-                        'django.contrib.auth',
-                        'django.contrib.contenttypes',
-                        'django.contrib.sessions',
-                        'django.contrib.messages',
-                        'django.contrib.staticfiles',
-                        'api',
-                      ]
+```
+  INSTALLED_APPS = [
+  'django.contrib.admin',
+  'django.contrib.auth',
+  'django.contrib.contenttypes',
+  'django.contrib.sessions',
+  'django.contrib.messages',
+  'django.contrib.staticfiles',
+  'api',
+]
 
-                      ```
+```
 
 [Learn about django project structure.](https://django-project-skeleton.readthedocs.io/en/latest/structure.html)
 
