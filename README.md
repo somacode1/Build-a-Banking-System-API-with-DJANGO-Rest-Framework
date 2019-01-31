@@ -39,7 +39,7 @@ Prerequisites required include:
 
 OR 
 
-  `pip install django==1.11` __If python3 is the default version running.__
+  `pip install django==1.11` _If python3 is the default version running._
 
 * Create django project:
   
