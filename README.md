@@ -8,8 +8,7 @@ This course will teach you exactly how to build one with Django, Python, Django 
 ### Section 1| Django start project
 *1 - Requirements: no code*
 
-[2 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c
-/)
+[2 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
 
 
 ### Section 2| Django Rest Framework
