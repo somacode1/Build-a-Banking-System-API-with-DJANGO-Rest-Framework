@@ -48,6 +48,7 @@ OR
 
 That's it !!!!! You did it  :smiley: :clap: :clap: 
 
+
 If you want to see the blank project we created follow the link below.
 
 [1 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
