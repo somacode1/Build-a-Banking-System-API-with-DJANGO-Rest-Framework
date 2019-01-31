@@ -46,7 +46,7 @@ OR
   `django-admin startproject banksystem`
   
 
-That's it !!!!! You did it  :smiley: :clap: :clap: 
+> That's it !!!!! You did it  :smiley: :clap: :clap: 
 
 
 If you want to see the blank project we created follow the link below.
