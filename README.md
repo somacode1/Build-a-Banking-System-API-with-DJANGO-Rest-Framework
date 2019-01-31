@@ -54,6 +54,9 @@ If you want to see the blank project we created follow the link below.
 
 [1 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
 
+
+Now lets create an application called **api** inside our project `banksystem`. [To learn more about django applications.](https://docs.djangoproject.com/en/2.1/ref/applications/)
+
 [2 - Create api app](../../tree/add_commit_here/)
 
 ### Section 2| Django Rest Framework
