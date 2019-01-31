@@ -43,12 +43,16 @@ OR
 
 If python3 is the default version running.
 
+* Create django project:
+  
+  `django-admin startproject banksystem`
+  
 
-[2 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
+That's it !!!!! You did it  :smiley: :clap: :clap: 
 
-To start project run the following command:
+If you want to see the blank project we created follow the link below.
 
-`django-admin startproject banksystem`
+[1 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
 
 [2 - Create api app](../../tree/add_commit_here/)
 
