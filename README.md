@@ -94,7 +94,7 @@ Include `api` application in django `settings.py`
                         'django.contrib.sessions',
                         'django.contrib.messages',
                         'django.contrib.staticfiles',
- :point_right:          'api',
+                        'api',
                       ]
 
                       ```
