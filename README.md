@@ -107,6 +107,35 @@ Include `api` application in django `settings.py`
 
 [2 - Install Django Rest Framework](../../tree/add_commit_here/)
 
+Install using `pip` ...
+
+```
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
+```
+
+Add `'rest_framework'` to your `INSTALLED_APPS` setting in `settings.py`.
+
+```
+INSTALLED_APPS = (
+    ...
+    'rest_framework',
+)
+```
+
+If you're intending to use the browsable API you'll probably also want to add REST framework's login and logout views. Add the following to your root`urls.py` file.(`banksystem_project/banksystem/urls.py`)  
+
+```
+urlpatterns = [
+    ...
+    url(r'^api-auth/', include('rest_framework.urls'))
+]
+```
+
+Note that the URL path can be whatever you want.
+
+
 [3 - Status Model & App](../../tree/add_commit_here/)
 
 [4 - Model Form for Validation](../../tree/add_commit_here/)
