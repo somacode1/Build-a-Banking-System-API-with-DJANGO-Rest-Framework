@@ -124,7 +124,7 @@ INSTALLED_APPS = (
 )
 ```
 
-If you're intending to use the browsable API you'll probably also want to add REST framework's login and logout views. Add the following to your root`urls.py` file.(`banksystem_project/banksystem/urls.py`)  
+If you're intending to use the browsable API you'll probably also want to add REST framework's login and logout views. Add the following to your root`urls.py` file. Location of **urls.py** `banksystem_project/banksystem/urls.py` 
 
 ```
 urlpatterns = [
