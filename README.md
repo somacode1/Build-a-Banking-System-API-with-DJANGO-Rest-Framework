@@ -8,8 +8,49 @@ This course will teach you exactly how to build one with Django, Python, Django 
 ### Section 1| Django start project
 *1 - Requirements: no code*
 
+Prerequisites required include:
+- Python 3
+- Pip 3
+- Virtualenv 
+- Django == 1.11
+
+#### Django Installation Instructions
+
+Make directory in your workspace:
+`mkdir banksystem_project`
+
+Navigate into `banksystem_project`
+
+`cd banksystem_project`
+
+Create a python virtual environment to install django and other dependecies in the future.
+
+`virtualenv .env`
+
+`.env` is the directory where we install the packages.
+
+Activate the virtual environment.
+
+`source .env/bin/activate`
+
+Install Django framework. We are going to use `django=1.11` in this tutorial.
+
+`pip3 install django==1.11`
+
+OR 
+
+`pip install django==1.11`
+
+If python3 is the default version running.
+
+
 [2 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
 
+To start project run the following command:
+
+`django-admin startproject banksystem`
+
+[2 - Create api app](../../tree/add_commit_here/)
 
 ### Section 2| Django Rest Framework
 
