@@ -16,24 +16,24 @@ Prerequisites required include:
 
 #### Django Installation Instructions
 
-Make directory in your workspace:
+* Make directory in your workspace:
 `mkdir banksystem_project`
 
-Navigate into `banksystem_project`
+* Navigate into `banksystem_project`
 
 `cd banksystem_project`
 
-Create a python virtual environment to install django and other dependecies in the future.
+* Create a python virtual environment to install django and other dependecies in the future.
 
 `virtualenv .env`
 
 `.env` is the directory where we install the packages.
 
-Activate the virtual environment.
+* Activate the virtual environment.
 
 `source .env/bin/activate`
 
-Install Django framework. We are going to use `django=1.11` in this tutorial.
+* Install Django framework. We are going to use `django=1.11` in this tutorial.
 
 `pip3 install django==1.11`
 
