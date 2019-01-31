@@ -7,12 +7,14 @@ This course will teach you exactly how to build one with Django, Python, Django 
 
 ### Section 1| Django start project
 *1 - Requirements: no code*
+
 [2 - Blank Django Project](../../tree/add_commit_here/)
 
 
 ### Section 2| Django Rest Framework
 
 *1 - Introduction: no code*
+
 [2 - Install Django Rest Framework](../../tree/add_commit_here/)
 
 [3 - Status Model & App](../../tree/add_commit_here/)
