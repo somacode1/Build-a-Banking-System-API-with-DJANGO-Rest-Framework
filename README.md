@@ -44,10 +44,9 @@ OR
 * Create django project:
   
   `django-admin startproject banksystem`
-  
-<p>
+ 
+
 > That's it !!!!! You did it  :smiley: :clap: :clap: 
-</p>
 
 If you want to see the blank project we created follow the link below.
 
