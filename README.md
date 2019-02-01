@@ -1,5 +1,5 @@
 # Build a Banking System API with DJANGO Restframework
-[!Banking System API Logo](./course_logo.png)
+![Banking System API Logo](./course_logo.png)
 
 We're going to take you step-by-step to build a modern, fully open-source,Banking System RESTful API using Python, Django Rest Framework.
 
