@@ -105,7 +105,7 @@ Include `api` application in django `settings.py`
 
 *1 - Introduction: no code*
 
-[2 - Install Django Rest Framework](../../tree/76619e08ea78f9eb3f5a3a534425a2d94d64d388/)
+[2 - Install Django Rest Framework](../../tree/63ae3a627606d74c9e4f6128ccd1ec686104585a/)
 
 Install using `pip` ...
 
