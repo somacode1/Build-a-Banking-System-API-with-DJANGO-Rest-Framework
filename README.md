@@ -14,7 +14,7 @@ Prerequisites required include:
 - Virtualenv 
 - Django == 1.11
 
-### Django Installation Instructions
+#### Django Installation Instructions
 
 * Make directory in your workspace:
   `mkdir banksystem_project`
@@ -134,11 +134,10 @@ urlpatterns = [
 ```
 
 Note that the URL path can be whatever you want.
-[3 - Status Model & App](../../tree/add_commit_here/)
 
-[4 - Model Form for Validation](../../tree/add_commit_here/)
+[3 - Creating Bank System Models](../../tree/bc2272e009fa1dcb8719155d5b603b74c9e02e74/)
 
-[5 - Creating a Serailizer](../../tree/add_commit_here/)
+[4 - Creating a Serailizer](../../tree/add_commit_here/)
 
 [6 - Create & Update through Serializers](../../tree/add_commit_here/)
 
