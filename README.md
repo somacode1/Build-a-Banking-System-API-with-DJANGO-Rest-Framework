@@ -137,7 +137,7 @@ Note that the URL path can be whatever you want.
 
 [3 - Creating Bank System Models](../../tree/bc2272e009fa1dcb8719155d5b603b74c9e02e74/)
 
-[4 - Creating a Serailizer](../../tree/add_commit_here/)
+[4 - Creating Serailizers](../../tree/93b845ccda9d5430dd5e447ec250f5a883d3a55f/)
 
 [6 - Create & Update through Serializers](../../tree/add_commit_here/)
 
