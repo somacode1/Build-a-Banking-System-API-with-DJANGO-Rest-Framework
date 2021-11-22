@@ -7,6 +7,12 @@ from .models import *
 class BranchSerializer(serializers.ModelSerializer):
     class Meta:
         model = Branch
+        fields = ('name','address','branch_code',)
+        read_only_fields = ('id',)
+
+class BranchDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Branch
         fields = ('__all__')
 
 
