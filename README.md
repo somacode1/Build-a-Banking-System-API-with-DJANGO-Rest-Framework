@@ -9,10 +9,11 @@ This course will teach you exactly how to build one with Django, Python, Django 
 *1 - Requirements: no code*
 
 Prerequisites required include:
+
 - Python 3
 - Pip 3
-- Virtualenv 
-- Django == 1.11
+- Virtualenv
+- Django == 3.2.9
 
 #### Django Installation Instructions
 
@@ -35,11 +36,11 @@ Prerequisites required include:
 
 * Install Django framework. We are going to use `django=1.11` in this tutorial.
 
-  `pip3 install django==1.11`
+  `pip3 install django==3.2.9`
 
 OR 
 
-  `pip install django==1.11` _If python3 is the default version running._
+  `pip install django==3.2.9` _If python3 is the default version running._
 
 * Create django project:
   
@@ -139,7 +140,7 @@ Note that the URL path can be whatever you want.
 
 [4 - Creating Serailizers](../../tree/93b845ccda9d5430dd5e447ec250f5a883d3a55f/)
 
-[6 - Create & Update through Serializers](../../tree/add_commit_here/)
+<!-- [6 - Create & Update through Serializers](../../tree/add_commit_here/)
 
 [7 - Validation & Fields](../../tree/add_commit_here/)
 
@@ -163,8 +164,8 @@ Note that the URL path can be whatever you want.
 
 [17 - 2 Views for CRUDL](../../tree/add_commit_here/)
 
-[18 - Authentication & Permissions](../../tree/add_commit_here/)
-
+[18 - Authentication & Permissions](../../tree/add_commit_here/) -->
+<!-- 
 [19 - Global Settings for Authentication & Permissions](../../tree/add_commit_here/)
 
 [20 - Permission Tests with Python Requests](../../tree/add_commit_here/)
@@ -205,6 +206,6 @@ d
 
 [39 - Testing User API](../../tree/add_commit_histor/)
 
-[41 - Testing with a Temporary Image](../../tree/add_commit_histor/)
+[41 - Testing with a Temporary Image](../../tree/add_commit_histor/) -->
 
 *42 - Final wrap-up: no code*
