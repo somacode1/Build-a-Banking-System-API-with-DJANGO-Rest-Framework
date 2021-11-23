@@ -140,6 +140,8 @@ Note that the URL path can be whatever you want.
 
 [4 - Creating Serailizers](../../tree/93b845ccda9d5430dd5e447ec250f5a883d3a55f/)
 
+[4 - Implementing Branch & Bank Endpoints Using generic views](../../tree/48c31204adf47262acdda05c44742393e25ec39e/)
+
 <!-- [6 - Create & Update through Serializers](../../tree/add_commit_here/)
 
 [7 - Validation & Fields](../../tree/add_commit_here/)
