@@ -34,7 +34,7 @@ Prerequisites required include:
 
   `source .env/bin/activate`
 
-* Install Django framework. We are going to use `django=1.11` in this tutorial.
+* Install Django framework. We are going to use `django==3.2.9` in this tutorial.
 
   `pip3 install django==3.2.9`
 
