@@ -56,3 +56,6 @@ class CreateAccountAPIView(APIView):
         serializer = AccountSerializer(account)
         return Response(serializer.data,status=status.HTTP_201_CREATED)
 
+class AccountListAPIView(generics.ListAPIView):
+    queryset = Account.objects.all()
+    serializer_class = AccountSerializer
