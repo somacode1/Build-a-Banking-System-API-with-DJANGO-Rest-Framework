@@ -17,6 +17,7 @@ class BranchDetailSerializer(serializers.ModelSerializer):
 
 
 class BankSerializer(serializers.ModelSerializer):
+    branch = BranchSerializer()
     class Meta:
         model = Bank 
         fields = ('__all__')
@@ -35,6 +36,8 @@ class ClientSerializer(serializers.ModelSerializer):
 
 
 class AccountSerializer(serializers.ModelSerializer):
+    client = ClientSerializer()
+    bank = BankSerializer()
     class Meta:
         model = Account
         fields = ('__all__')
